@@ -1,0 +1,1 @@
+select distinct empresa from dm_linx.grupo_lojas where cnpj is not null
