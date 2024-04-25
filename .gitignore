@@ -178,7 +178,6 @@ int_wake.py
 pipelines/
 
 
-
-
+logs/
 
 sendMail.py
